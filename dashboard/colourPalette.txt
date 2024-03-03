@@ -1,0 +1,12 @@
+---NEW PALETTE---
+
+silver - #ededed
+dark green - #4e5447
+dark green contrast - #363a31
+light green - #dbdfaa
+light light green - #f5f0bb
+white - #ffffff
+text dark gray - #3c3840
+text medium gray - #6d6c6c
+text light gray - #cfcfcf
+
